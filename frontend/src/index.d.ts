@@ -1,0 +1,1 @@
+/* This file is needed to suppress Tailwind CSS warnings in VS Code */
